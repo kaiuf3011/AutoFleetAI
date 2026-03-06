@@ -1,4 +1,4 @@
-# ⚡ AutoFleet AI
+# AutoFleet AI
 
 > Enterprise-Grade Fleet Intelligence & AI Dispatch System
 
@@ -8,7 +8,7 @@ Built with scalability and modern UI/UX principles in mind, it provides real-tim
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **AI Dispatch Engine**: Multi-factor weighted algorithm evaluating 5 key telemetry data streams to select the optimal vehicle.
 - **Unified Command Dashboard**: A high-performance React front-end delivering dense, actionable insights in real time.
@@ -22,7 +22,7 @@ Built with scalability and modern UI/UX principles in mind, it provides real-tim
 - **Backend**: Node.js, Express.js.
 - **Architecture**: Modular service-based architecture (Registry, Task Manager, AI Optimizer, Governance Engine, Analytics).
 
-## 📦 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js (v18 or higher)
@@ -50,7 +50,7 @@ Built with scalability and modern UI/UX principles in mind, it provides real-tim
 4. Open the application:
    Navigate to port indicated by Vite (e.g. `http://localhost:5174`) in your browser.
 
-## 🧠 AI Optimization Weights
+## AI Optimization Weights
 
 The system uses a highly tuned scoring algorithm to dispatch vehicles:
 - **Distance (35%)**: Proximity to pickup zone.
